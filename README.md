@@ -7,4 +7,5 @@ Responsibilities:
 Designed and implemented RESTful APIs for user authentication, product management, and order processing.
 Integrated MySQL database to store and manage product catalog, user information, and order records.
 Utilized Postman for testing and validation of APIs to ensure proper functionality and adherence to specifications.
+
 Technologies Used: Spring Boot, MySQL, Postman.
