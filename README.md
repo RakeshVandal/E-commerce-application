@@ -12,6 +12,7 @@ Utilized Postman for testing and validation of APIs to ensure proper functionali
 ## Technologies Used
 
 - Spring Boot
+- Spring-Data-JPA
 - MySQL
 - Postman
 
